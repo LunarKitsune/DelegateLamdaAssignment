@@ -1,0 +1,9 @@
+C:\Users\Ken\source\repos\ticketAppV2\ticketAppV2\bin\Debug\ticketAppV2.exe.config
+C:\Users\Ken\source\repos\ticketAppV2\ticketAppV2\bin\Debug\ticketAppV2.exe
+C:\Users\Ken\source\repos\ticketAppV2\ticketAppV2\bin\Debug\ticketAppV2.pdb
+C:\Users\Ken\source\repos\ticketAppV2\ticketAppV2\obj\Debug\ticketAppV2.csprojAssemblyReference.cache
+C:\Users\Ken\source\repos\ticketAppV2\ticketAppV2\obj\Debug\ticketAppV2.Form1.resources
+C:\Users\Ken\source\repos\ticketAppV2\ticketAppV2\obj\Debug\ticketAppV2.Properties.Resources.resources
+C:\Users\Ken\source\repos\ticketAppV2\ticketAppV2\obj\Debug\ticketAppV2.csproj.GenerateResource.cache
+C:\Users\Ken\source\repos\ticketAppV2\ticketAppV2\obj\Debug\ticketAppV2.exe
+C:\Users\Ken\source\repos\ticketAppV2\ticketAppV2\obj\Debug\ticketAppV2.pdb
